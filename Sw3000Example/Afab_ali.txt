@@ -1,0 +1,7 @@
+# Alias create commands for fabric A
+aliCreate "ali_MSA1A_CtlLo_P1_FA", "24:70:00:c0:ff:51:2f:ea"
+aliCreate "ali_MSA1A_CtlUp_P1_FA", "20:70:00:c0:ff:51:2f:ea"
+aliCreate "ali_MSA2B_CtlLo_P1_FA", "24:70:00:c0:ff:51:6a:6a"
+aliCreate "ali_MSA2B_CtlUp_P1_FA", "20:70:00:c0:ff:51:6a:6a"
+aliCreate "ali_NODE1_P1_FA", "51:40:2e:c0:01:bc:ea:0c"
+aliCreate "ali_NODE2_P1_FA", "51:40:2e:c0:01:bc:e0:1c"

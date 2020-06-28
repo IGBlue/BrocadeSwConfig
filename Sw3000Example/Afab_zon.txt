@@ -1,0 +1,13 @@
+# Zone create commands for fabric A
+zoneCreate "zon_NODE1_P1_MSA1A", "ali_NODE1_P1_FA"
+zoneAdd    "zon_NODE1_P1_MSA1A", "ali_MSA1A_CtlLo_P1_FA"
+zoneAdd    "zon_NODE1_P1_MSA1A", "ali_MSA1A_CtlUp_P1_FA"
+zoneCreate "zon_NODE1_P1_MSA2B", "ali_NODE1_P1_FA"
+zoneAdd    "zon_NODE1_P1_MSA2B", "ali_MSA2B_CtlLo_P1_FA"
+zoneAdd    "zon_NODE1_P1_MSA2B", "ali_MSA2B_CtlUp_P1_FA"
+zoneCreate "zon_NODE2_P1_MSA1A", "ali_NODE2_P1_FA"
+zoneAdd    "zon_NODE2_P1_MSA1A", "ali_MSA1A_CtlLo_P1_FA"
+zoneAdd    "zon_NODE2_P1_MSA1A", "ali_MSA1A_CtlUp_P1_FA"
+zoneCreate "zon_NODE2_P1_MSA2B", "ali_NODE2_P1_FA"
+zoneAdd    "zon_NODE2_P1_MSA2B", "ali_MSA2B_CtlLo_P1_FA"
+zoneAdd    "zon_NODE2_P1_MSA2B", "ali_MSA2B_CtlUp_P1_FA"

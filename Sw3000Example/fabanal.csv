@@ -1,0 +1,13 @@
+Node,I/f,Subif,Fabric,I/T,WWPN,WWNN,Node Type,Node Id,SWport Index
+MSA1AUP,P1,,A,,20:70:00:c0:ff:51:2f:ea,,,,1
+MSA2BUP,P1,,A,,20:70:00:c0:ff:51:6a:6a,,,,2
+MSA1AUP,P2,,B,,21:70:00:c0:ff:51:2f:ea,,,,1
+MSA2BUP,P2,,B,,21:70:00:c0:ff:51:6a:6a,,,,2
+MSA1ALO,P1,,A,,24:70:00:c0:ff:51:2f:ea,,,,5
+MSA2BLO,P1,,A,,24:70:00:c0:ff:51:6a:6a,,,,6
+MSA1ALO,P2,,B,,25:70:00:c0:ff:51:2f:ea,,,,5
+MSA2BLO,P2,,B,,25:70:00:c0:ff:51:6a:6a,,,,6
+BELTST,P1,,A,,51:40:2e:c0:01:bc:e0:1c,,,,4
+BELTST,P2,,B,,51:40:2e:c0:01:bc:e0:1e,,,,4
+BELPRD,P1,,A,,51:40:2e:c0:01:bc:ea:0c,,,,0
+BELPRD,P2,,B,,51:40:2e:c0:01:bc:ea:0e,,,,0

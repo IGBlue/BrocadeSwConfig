@@ -1,0 +1,140 @@
+Fabric A:
+SanASw1:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 TTL(sec)
+ N    0b0000;      3;51:40:2e:c0:01:bc:ea:0c;51:40:2e:c0:01:bc:ea:0d; na
+    Fabric Port Name: 20:00:88:94:71:dc:13:40
+    Permanent Port Name: 51:40:2e:c0:01:bc:ea:0c
+    Port Index: 0
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    0b0100;      3;20:70:00:c0:ff:51:2f:ea;20:80:00:c0:ff:51:2f:ea; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:01:88:94:71:dc:13:40
+    Permanent Port Name: 20:70:00:c0:ff:51:2f:ea
+    Port Index: 1
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    0b0200;      3;20:70:00:c0:ff:51:6a:6a;20:80:00:c0:ff:51:6a:6a; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:02:88:94:71:dc:13:40
+    Permanent Port Name: 20:70:00:c0:ff:51:6a:6a
+    Port Index: 2
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    0b0400;      3;51:40:2e:c0:01:bc:e0:1c;51:40:2e:c0:01:bc:e0:1d; na
+    Fabric Port Name: 20:04:88:94:71:dc:13:40
+    Permanent Port Name: 51:40:2e:c0:01:bc:e0:1c
+    Port Index: 4
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    0b0500;      3;24:70:00:c0:ff:51:2f:ea;20:80:00:c0:ff:51:2f:ea; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:05:88:94:71:dc:13:40
+    Permanent Port Name: 24:70:00:c0:ff:51:2f:ea
+    Port Index: 5
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    0b0600;      3;24:70:00:c0:ff:51:6a:6a;20:80:00:c0:ff:51:6a:6a; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:06:88:94:71:dc:13:40
+    Permanent Port Name: 24:70:00:c0:ff:51:6a:6a
+    Port Index: 6
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+The Local Name Server has 6 entries }
+
+
+Fabric B:
+SanBSw1:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 TTL(sec)
+ N    150000;      3;51:40:2e:c0:01:bc:ea:0e;51:40:2e:c0:01:bc:ea:0f; na
+    Fabric Port Name: 20:00:88:94:71:dc:13:00
+    Permanent Port Name: 51:40:2e:c0:01:bc:ea:0e
+    Port Index: 0
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    150100;      3;21:70:00:c0:ff:51:2f:ea;20:80:00:c0:ff:51:2f:ea; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:01:88:94:71:dc:13:00
+    Permanent Port Name: 21:70:00:c0:ff:51:2f:ea
+    Port Index: 1
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    150200;      3;21:70:00:c0:ff:51:6a:6a;20:80:00:c0:ff:51:6a:6a; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:02:88:94:71:dc:13:00
+    Permanent Port Name: 21:70:00:c0:ff:51:6a:6a
+    Port Index: 2
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    150400;      3;51:40:2e:c0:01:bc:e0:1e;51:40:2e:c0:01:bc:e0:1f; na
+    Fabric Port Name: 20:04:88:94:71:dc:13:00
+    Permanent Port Name: 51:40:2e:c0:01:bc:e0:1e
+    Port Index: 4
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    150500;      3;25:70:00:c0:ff:51:2f:ea;20:80:00:c0:ff:51:2f:ea; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:05:88:94:71:dc:13:00
+    Permanent Port Name: 25:70:00:c0:ff:51:2f:ea
+    Port Index: 5
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+ N    150600;      3;25:70:00:c0:ff:51:6a:6a;20:80:00:c0:ff:51:6a:6a; na
+    FC4s: FCP [HPE     MSA 2050 SAN    V270]
+    Fabric Port Name: 20:06:88:94:71:dc:13:00
+    Permanent Port Name: 25:70:00:c0:ff:51:6a:6a
+    Port Index: 6
+    Share Area: No
+    Device Shared in Other AD: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Device link speed: 16G
+The Local Name Server has 6 entries }

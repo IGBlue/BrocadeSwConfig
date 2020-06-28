@@ -1,0 +1,8 @@
+# Switch config commands for fabric A
+cfgClear
+cfgDisable
+cfgCreate "cfg2020-06-11", "zon_NODE1_P1_MSA1A"
+cfgAdd    "cfg2020-06-11", "zon_NODE1_P1_MSA2B"
+cfgAdd    "cfg2020-06-11", "zon_NODE2_P1_MSA1A"
+cfgAdd    "cfg2020-06-11", "zon_NODE2_P1_MSA2B"
+cfgSave

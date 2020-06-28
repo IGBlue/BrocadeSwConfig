@@ -1,0 +1,1766 @@
+﻿Fabric A:
+vx
+sana-a01:FID128:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 SCR
+ N    7d0000;      3;21:01:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005076N - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:00:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:01:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 0
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0100;      3;21:02:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005076N - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:01:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:02:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 1
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0200;      3;21:21:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050795 - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:02:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:21:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 2
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0300;      3;21:22:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050795 - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:03:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:22:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 3
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0400;      3;21:21:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005078K - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:04:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:21:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 4
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0500;      3;21:22:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005078K - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:05:88:94:71:b0:ae:9c
+    Permanent Port Name: 21:22:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 5
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0800;      3;20:01:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005076N - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:08:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:01:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 8
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0900;      3;20:02:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005076N - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:09:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:02:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 9
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0a00;      3;20:21:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050795 - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:0a:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:21:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 10
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0b00;      3;20:22:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050795 - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:0b:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:22:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 11
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0c00;      3;20:21:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005078K - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:0c:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:21:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 12
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d0d00;      3;20:22:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005078K - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:0d:88:94:71:b0:ae:9c
+    Permanent Port Name: 20:22:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 13
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d1000;      3;51:40:2e:c0:01:bd:4e:68;51:40:2e:c0:01:bd:4e:69; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA01 (52335) 8.5.43."
+    Fabric Port Name: 20:10:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:68
+    Device type: Physical Initiator
+    Port Index: 16
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1100;      3;51:40:2e:c0:01:bc:fb:7c;51:40:2e:c0:01:bc:fb:7d; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA03 (52337) 8.5.43."
+    Fabric Port Name: 20:11:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:7c
+    Device type: Physical Initiator
+    Port Index: 17
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1200;      3;51:40:2e:c0:01:bd:4e:4c;51:40:2e:c0:01:bd:4e:4d; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA02 (52336) 8.5.43."
+    Fabric Port Name: 20:12:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:4c
+    Device type: Physical Initiator
+    Port Index: 18
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1300;      3;51:40:2e:c0:01:bc:e8:b4;51:40:2e:c0:01:bc:e8:b5; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA04 (52338) 8.5.43."
+    Fabric Port Name: 20:13:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bc:e8:b4
+    Device type: Physical Initiator
+    Port Index: 19
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1400;      3;51:40:2e:c0:01:bc:fa:b0;51:40:2e:c0:01:bc:fa:b1; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA07 (52341) 8.5.43."
+    Fabric Port Name: 20:14:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:b0
+    Device type: Physical Initiator
+    Port Index: 20
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1500;      3;51:40:2e:c0:14:81:47:ee;51:40:2e:c0:14:81:47:ef; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [41] "QLogic Port1 WWPN 51:40:2e:c0:14:81:47:ee"
+    NodeSymb: [34] "SN1100Q FW:v8.08.220 DVR:v9.2.9.22"
+    Fabric Port Name: 20:15:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:14:81:47:ee
+    Device type: Physical Initiator
+    Port Index: 21
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1600;      3;51:40:2e:c0:01:bc:fb:54;51:40:2e:c0:01:bc:fb:55; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA06 (52340) 8.5.43."
+    Fabric Port Name: 20:16:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:54
+    Device type: Physical Initiator
+    Port Index: 22
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1700;      3;51:40:2e:c0:01:bc:fb:80;51:40:2e:c0:01:bc:fb:81; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA08 (52342) 8.5.43."
+    Fabric Port Name: 20:17:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:80
+    Device type: Physical Initiator
+    Port Index: 23
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7d1800;      3;51:40:2e:c0:13:5e:ed:02;51:40:2e:c0:13:5e:ed:01; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EED01 Port A"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EED01"
+    Fabric Port Name: 20:18:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:13:5e:ed:02
+    Device type: Physical Target
+    Port Index: 24
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d1900;      3;51:40:2e:c0:13:5e:ec:f8;51:40:2e:c0:13:5e:ec:f7; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EECF7 Port A"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EECF7"
+    Fabric Port Name: 20:19:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:13:5e:ec:f8
+    Device type: Physical Target
+    Port Index: 25
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7d1a00;      3;51:40:2e:c0:01:bd:4e:84;51:40:2e:c0:01:bd:4e:85; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBA05 (52339) 8.5.43."
+    Fabric Port Name: 20:1a:88:94:71:b0:ae:9c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:84
+    Device type: Physical Initiator
+    Port Index: 26
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+The Local Name Server has 23 entries }
+sana-a01:FID128:admin>
+
+
+
+Fabric A:
+sana-b01:FID128:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 SCR
+ N    e10000;      3;21:01:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050799 - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:00:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:01:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 0
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10100;      3;21:02:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050799 - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:01:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:02:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 1
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10200;      3;21:21:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079X - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:02:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:21:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 2
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10300;      3;21:22:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079X - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:03:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:22:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 3
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10400;      3;21:21:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079D - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:04:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:21:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 4
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10500;      3;21:22:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079D - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:05:88:94:71:b0:7c:ed
+    Permanent Port Name: 21:22:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 5
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10800;      3;20:01:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050799 - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:08:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:01:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 8
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10900;      3;20:02:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050799 - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:09:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:02:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 9
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10a00;      3;20:21:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079X - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:0a:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:21:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 10
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10b00;      3;20:22:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079X - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:0b:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:22:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 11
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10c00;      3;20:21:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079D - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:0c:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:21:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 12
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e10d00;      3;20:22:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005079D - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:0d:88:94:71:b0:7c:ed
+    Permanent Port Name: 20:22:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 13
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e11000;      3;51:40:2e:c0:01:bd:4e:64;51:40:2e:c0:01:bd:4e:65; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB01 (52435) 8.5.43."
+    Fabric Port Name: 20:10:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:64
+    Device type: Physical Initiator
+    Port Index: 16
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11100;      3;51:40:2e:c0:01:bc:fb:10;51:40:2e:c0:01:bc:fb:11; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB03 (52437) 8.5.43."
+    Fabric Port Name: 20:11:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:10
+    Device type: Physical Initiator
+    Port Index: 17
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11200;      3;51:40:2e:c0:01:bd:4e:a8;51:40:2e:c0:01:bd:4e:a9; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB02 (52436) 8.5.43."
+    Fabric Port Name: 20:12:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:a8
+    Device type: Physical Initiator
+    Port Index: 18
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11300;      3;51:40:2e:c0:01:bc:fb:00;51:40:2e:c0:01:bc:fb:01; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB04 (52438) 8.5.43."
+    Fabric Port Name: 20:13:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:00
+    Device type: Physical Initiator
+    Port Index: 19
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11400;      3;51:40:2e:c0:01:bd:4e:5c;51:40:2e:c0:01:bd:4e:5d; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB05 (52439) 8.5.43."
+    Fabric Port Name: 20:14:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:5c
+    Device type: Physical Initiator
+    Port Index: 20
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11500;      3;51:40:2e:c0:01:bc:fa:44;51:40:2e:c0:01:bc:fa:45; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB07 (52441) 8.5.43."
+    Fabric Port Name: 20:15:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:44
+    Device type: Physical Initiator
+    Port Index: 21
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11600;      3;51:40:2e:c0:01:bc:fa:c8;51:40:2e:c0:01:bc:fa:c9; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB06 (52440) 8.5.43."
+    Fabric Port Name: 20:16:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:c8
+    Device type: Physical Initiator
+    Port Index: 22
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11700;      3;51:40:2e:c0:01:bc:fb:40;51:40:2e:c0:01:bc:fb:41; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGA. (0x20311077) LMBB08 (52442) 8.5.43."
+    Fabric Port Name: 20:17:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:40
+    Device type: Physical Initiator
+    Port Index: 23
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e11800;      3;51:40:2e:c0:13:5e:e9:82;51:40:2e:c0:13:5e:e9:81; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EE981 Port A"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EE981"
+    Fabric Port Name: 20:18:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:13:5e:e9:82
+    Device type: Physical Target
+    Port Index: 24
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e11900;      3;51:40:2e:c0:13:5e:e9:78;51:40:2e:c0:13:5e:e9:77; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EE977 Port A"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EE977"
+    Fabric Port Name: 20:19:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:13:5e:e9:78
+    Device type: Physical Target
+    Port Index: 25
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e11a00;      3;51:40:2e:c0:14:81:4e:54;51:40:2e:c0:14:81:4e:55; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [41] "QLogic Port0 WWPN 51:40:2e:c0:14:81:4e:54"
+    NodeSymb: [34] "SN1100Q FW:v8.08.220 DVR:v9.2.9.22"
+    Fabric Port Name: 20:1a:88:94:71:b0:7c:ed
+    Permanent Port Name: 51:40:2e:c0:14:81:4e:54
+    Device type: Physical Initiator
+    Port Index: 26
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+The Local Name Server has 23 entries }
+sana-b01:FID128:admin>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fabric B:
+
+sanb-a02:FID128:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 SCR
+ N    7e0000;      3;21:01:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050795 - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:00:88:94:71:b0:af:dc
+    Permanent Port Name: 21:01:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 0
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0100;      3;21:02:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050795 - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:01:88:94:71:b0:af:dc
+    Permanent Port Name: 21:02:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 1
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0200;      3;21:21:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005076N - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:02:88:94:71:b0:af:dc
+    Permanent Port Name: 21:21:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 2
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0300;      3;21:22:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005076N - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:03:88:94:71:b0:af:dc
+    Permanent Port Name: 21:22:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 3
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0400;      3;21:01:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005078K - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:04:88:94:71:b0:af:dc
+    Permanent Port Name: 21:01:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 4
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0500;      3;21:02:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005078K - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:05:88:94:71:b0:af:dc
+    Permanent Port Name: 21:02:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 5
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0800;      3;20:01:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050795 - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:08:88:94:71:b0:af:dc
+    Permanent Port Name: 20:01:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 8
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0900;      3;20:02:00:02:ac:02:57:2c;2f:f7:00:02:ac:02:57:2c; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ20050795 - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050795 - fw:3312"
+    Fabric Port Name: 20:09:88:94:71:b0:af:dc
+    Permanent Port Name: 20:02:00:02:ac:02:57:2c
+    Device type: Physical Target
+    Port Index: 9
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0a00;      3;20:21:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005076N - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:0a:88:94:71:b0:af:dc
+    Permanent Port Name: 20:21:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 10
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0b00;      3;20:22:00:02:ac:02:57:2d;2f:f7:00:02:ac:02:57:2d; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ2005076N - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005076N - fw:3312"
+    Fabric Port Name: 20:0b:88:94:71:b0:af:dc
+    Permanent Port Name: 20:22:00:02:ac:02:57:2d
+    Device type: Physical Target
+    Port Index: 11
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0c00;      3;20:01:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005078K - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:0c:88:94:71:b0:af:dc
+    Permanent Port Name: 20:01:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 12
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e0d00;      3;20:02:00:02:ac:02:57:2b;2f:f7:00:02:ac:02:57:2b; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005078K - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005078K - fw:3312"
+    Fabric Port Name: 20:0d:88:94:71:b0:af:dc
+    Permanent Port Name: 20:02:00:02:ac:02:57:2b
+    Device type: Physical Target
+    Port Index: 13
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e1000;      3;51:40:2e:c0:01:bd:4e:4e;51:40:2e:c0:01:bd:4e:4f; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA02 (52336) 8.5.43."
+    Fabric Port Name: 20:10:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:4e
+    Device type: Physical Initiator
+    Port Index: 16
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1100;      3;51:40:2e:c0:01:bc:e8:b6;51:40:2e:c0:01:bc:e8:b7; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA04 (52338) 8.5.43."
+    Fabric Port Name: 20:11:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bc:e8:b6
+    Device type: Physical Initiator
+    Port Index: 17
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1200;      3;51:40:2e:c0:01:bd:4e:6a;51:40:2e:c0:01:bd:4e:6b; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA01 (52335) 8.5.43."
+    Fabric Port Name: 20:12:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:6a
+    Device type: Physical Initiator
+    Port Index: 18
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1300;      3;51:40:2e:c0:01:bc:fb:7e;51:40:2e:c0:01:bc:fb:7f; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA03 (52337) 8.5.43."
+    Fabric Port Name: 20:13:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:7e
+    Device type: Physical Initiator
+    Port Index: 19
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1400;      3;51:40:2e:c0:01:bc:fb:56;51:40:2e:c0:01:bc:fb:57; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA06 (52340) 8.5.43."
+    Fabric Port Name: 20:14:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:56
+    Device type: Physical Initiator
+    Port Index: 20
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1500;      3;51:40:2e:c0:01:bd:4e:86;51:40:2e:c0:01:bd:4e:87; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA05 (52339) 8.5.43."
+    Fabric Port Name: 20:15:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:86
+    Device type: Physical Initiator
+    Port Index: 21
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1600;      3;51:40:2e:c0:01:bc:fa:b2;51:40:2e:c0:01:bc:fa:b3; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA07 (52341) 8.5.43."
+    Fabric Port Name: 20:16:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:b2
+    Device type: Physical Initiator
+    Port Index: 22
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1700;      3;51:40:2e:c0:01:bc:fb:82;51:40:2e:c0:01:bc:fb:83; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBA08 (52342) 8.5.43."
+    Fabric Port Name: 20:17:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:82
+    Device type: Physical Initiator
+    Port Index: 23
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    7e1800;      3;51:40:2e:c0:13:5e:ed:03;51:40:2e:c0:13:5e:ed:01; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EED01 Port B"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EED01"
+    Fabric Port Name: 20:18:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:13:5e:ed:03
+    Device type: Physical Target
+    Port Index: 24
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e1900;      3;51:40:2e:c0:13:5e:ec:f9;51:40:2e:c0:13:5e:ec:f7; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EECF7 Port B"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EECF7"
+    Fabric Port Name: 20:19:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:13:5e:ec:f9
+    Device type: Physical Target
+    Port Index: 25
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    7e1a00;      3;51:40:2e:c0:14:81:47:ec;51:40:2e:c0:14:81:47:ed; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [41] "QLogic Port0 WWPN 51:40:2e:c0:14:81:47:ec"
+    NodeSymb: [34] "SN1100Q FW:v8.08.220 DVR:v9.2.9.22"
+    Fabric Port Name: 20:1a:88:94:71:b0:af:dc
+    Permanent Port Name: 51:40:2e:c0:14:81:47:ec
+    Device type: Physical Initiator
+    Port Index: 26
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+The Local Name Server has 23 entries }
+sanb-a02:FID128:admin>
+
+
+
+Fabric B:
+sanb-b02:FID128:admin> nsshow
+{
+ Type Pid    COS     PortName                NodeName                 SCR
+ N    e20000;      3;21:01:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079X - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:00:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:01:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 0
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20100;      3;21:02:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079X - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:01:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:02:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 1
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20200;      3;21:21:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050799 - 1:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:02:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:21:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 2
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20300;      3;21:22:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050799 - 1:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:03:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:22:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 3
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20400;      3;21:01:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079D - 1:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:04:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:01:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 4
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20500;      3;21:02:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079D - 1:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:05:88:94:71:b0:a5:5c
+    Permanent Port Name: 21:02:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 5
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20800;      3;20:01:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079X - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:08:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:01:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 8
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20900;      3;20:02:00:02:ac:02:57:28;2f:f7:00:02:ac:02:57:28; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079X - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079X - fw:3312"
+    Fabric Port Name: 20:09:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:02:00:02:ac:02:57:28
+    Device type: Physical Target
+    Port Index: 9
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20a00;      3;20:21:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050799 - 0:2:1 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:0a:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:21:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 10
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20b00;      3;20:22:00:02:ac:02:57:29;2f:f7:00:02:ac:02:57:29; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [32] "CZ20050799 - 0:2:2 - ComboFC/GbE"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ20050799 - fw:3312"
+    Fabric Port Name: 20:0b:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:22:00:02:ac:02:57:29
+    Device type: Physical Target
+    Port Index: 11
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20c00;      3;20:01:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079D - 0:0:1 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:0c:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:01:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 12
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e20d00;      3;20:02:00:02:ac:02:57:2a;2f:f7:00:02:ac:02:57:2a; 0x0000000b
+    SCR: Fabric-Detected Nx-Port-Detected Peer-Zone
+    FC4s: FCP
+    PortSymb: [29] "CZ2005079D - 0:0:2 - LPE16002"
+    NodeSymb: [36] "HPE_3PAR 8440 - CZ2005079D - fw:3312"
+    Fabric Port Name: 20:0d:88:94:71:b0:a5:5c
+    Permanent Port Name: 20:02:00:02:ac:02:57:2a
+    Device type: Physical Target
+    Port Index: 13
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e21000;      3;51:40:2e:c0:01:bd:4e:aa;51:40:2e:c0:01:bd:4e:ab; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB02 (52436) 8.5.43."
+    Fabric Port Name: 20:10:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:aa
+    Device type: Physical Initiator
+    Port Index: 16
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21100;      3;51:40:2e:c0:01:bc:fb:02;51:40:2e:c0:01:bc:fb:03; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB04 (52438) 8.5.43."
+    Fabric Port Name: 20:11:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:02
+    Device type: Physical Initiator
+    Port Index: 17
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21200;      3;51:40:2e:c0:01:bd:4e:66;51:40:2e:c0:01:bd:4e:67; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB01 (52435) 8.5.43."
+    Fabric Port Name: 20:12:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:66
+    Device type: Physical Initiator
+    Port Index: 18
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21300;      3;51:40:2e:c0:01:bc:fb:12;51:40:2e:c0:01:bc:fb:13; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB03 (52437) 8.5.43."
+    Fabric Port Name: 20:13:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:12
+    Device type: Physical Initiator
+    Port Index: 19
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21400;      3;51:40:2e:c0:01:bc:fa:ca;51:40:2e:c0:01:bc:fa:cb; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB06 (52440) 8.5.43."
+    Fabric Port Name: 20:14:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:ca
+    Device type: Physical Initiator
+    Port Index: 20
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21500;      3;51:40:2e:c0:01:bd:4e:5e;51:40:2e:c0:01:bd:4e:5f; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB05 (52439) 8.5.43."
+    Fabric Port Name: 20:15:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bd:4e:5e
+    Device type: Physical Initiator
+    Port Index: 21
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21600;      3;51:40:2e:c0:01:bc:fa:46;51:40:2e:c0:01:bc:fa:47; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB07 (52441) 8.5.43."
+    Fabric Port Name: 20:16:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fa:46
+    Device type: Physical Initiator
+    Port Index: 22
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21700;      3;51:40:2e:c0:01:bc:fb:42;51:40:2e:c0:01:bc:fb:43; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [40] "FGB. (0x20311077) LMBB08 (52442) 8.5.43."
+    Fabric Port Name: 20:17:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:01:bc:fb:42
+    Device type: Physical Initiator
+    Port Index: 23
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+ N    e21800;      3;51:40:2e:c0:13:5e:e9:83;51:40:2e:c0:13:5e:e9:81; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EE981 Port B"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EE981"
+    Fabric Port Name: 20:18:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:13:5e:e9:83
+    Device type: Physical Target
+    Port Index: 24
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e21900;      3;51:40:2e:c0:13:5e:e9:79;51:40:2e:c0:13:5e:e9:77; 0x00000000
+    SCR: None
+    FC4s: FCP
+    PortSymb: [43] "HP Ultrium 7-SCSI HH KAH1 C0135EE977 Port B"
+    NodeSymb: [36] "HP Ultrium 7-SCSI HH KAH1 C0135EE977"
+    Fabric Port Name: 20:19:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:13:5e:e9:79
+    Device type: Physical Target
+    Port Index: 25
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 8G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Target
+ N    e21a00;      3;51:40:2e:c0:14:81:4e:56;51:40:2e:c0:14:81:4e:57; 0x00000003
+    SCR: Fabric-Detected Nx-Port-Detected
+    FC4s: FCP
+    PortSymb: [41] "QLogic Port1 WWPN 51:40:2e:c0:14:81:4e:56"
+    NodeSymb: [34] "SN1100Q FW:v8.08.220 DVR:v9.2.9.22"
+    Fabric Port Name: 20:1a:88:94:71:b0:a5:5c
+    Permanent Port Name: 51:40:2e:c0:14:81:4e:56
+    Device type: Physical Initiator
+    Port Index: 26
+    Share Area: No
+    Redirect: No
+    Partial: No
+    LSAN: No
+    Slow Drain Device: No
+    Device link speed: 16G
+    Connected through AG: No
+    Real device behind AG: No
+    FCoE: No
+    FC4 Features [FCP]: Initiator
+The Local Name Server has 23 entries }
+sanb-b02:FID128:admin>
+
