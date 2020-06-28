@@ -1,2 +1,2 @@
 # BrocadeSwConfig
-Braode SAN switch helper programs
+Brocade SAN switch helper programs
