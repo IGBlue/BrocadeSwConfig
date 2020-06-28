@@ -9,7 +9,7 @@ Examples, taken from working environments, are provided to aid understanding.
 
 The programs are written in Python and a prerequite is that Python is installed. Development was done under Windows.
 
-Full documentation is available in the BrocadeSwitches PDF or DOCX files. I ti suggested that these be used to evaluate suitablilty.
+Full documentation is available in the BrocadeSwitches PDF or DOCX files. It is suggested that these be used to evaluate suitablilty.
 
 The ZIP file contains all the files in the project repository for ease of download.
 
